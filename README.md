@@ -14,7 +14,7 @@ The project includes:
 
 ## Requirements
 Install dependencies using:
-   pip install -r requirements.txt
+   pip install -requirements.txt
 
 ## How to Run
 1. Clone this repository  
@@ -28,3 +28,4 @@ The model reports the classification accuracy and displays a confusion matrix fo
 
 ### Author
 Created as a small experiment to practice data science workflows on GitHub.
+
